@@ -4,10 +4,6 @@ from retirar_productos import *
 from buscar_productos import *
 from movimientos import *
 
-
-
-
-
 opc = 0
 while opc != 6:
         print("\nINVENTARIO\n1. Crear producto\n2. Ingresar productos\n3. Retirar productos\n4. Buscar productos\n5. Movimientos\n6. Salir")
